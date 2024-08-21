@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NirmalkumarNK2
 - 👀 I’m interested in cycling
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on python developers
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me at nirmalkumarv2004@email.com
 
 <!---

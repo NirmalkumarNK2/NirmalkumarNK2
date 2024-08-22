@@ -2,7 +2,7 @@
 - 👀 I’m interested in cycling
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me at nirmalkumarv2004@email.com
+- 📫 How to reach me at nirmalkumarv2004@gmail.com
 
 <!---
 NirmalkumarNK2/NirmalkumarNK2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

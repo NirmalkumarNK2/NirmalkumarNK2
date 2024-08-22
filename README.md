@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nirmal kumar (Software developer) 
-- 👀 I’m interested in cycling
+- 👀 I’m interested in new technologies 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on python projects works
 - 📫 How to reach me at nirmalkumarv2004@gmail.com
 
 <!---

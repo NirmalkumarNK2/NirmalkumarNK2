@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NirmalkumarNK2
+- 👋 Hi, I’m Nirmal kumar (Software developer) 
 - 👀 I’m interested in cycling
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on python projects

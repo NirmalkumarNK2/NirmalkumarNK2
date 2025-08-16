@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nirmal kumar (Software developer).
 - 👀 I’m interested in new technologies.
-- 🌱 I’m currently Mern Stack.
+- 🌱 I’m currently learning Mern Stack.
 - 💞️ I’m looking to collaborate on python projects works.
 - 📫 How to reach me at nirmalkumarv0206@gmail.com
 
